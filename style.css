@@ -1,0 +1,13 @@
+.header {
+    width: 100%;
+    text-align: center;
+    height: 60px;
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+}
+
+#searchParameters, #topArticles {
+    background-color: rgb(85, 84, 84);
+    color: white;
+}
